@@ -1,5 +1,5 @@
 # Bizarre-quarentines
-A game for a Game Jam made with a group
+A game for a Game Jam made with a group of 3 people and me.
 
 #Note
 
